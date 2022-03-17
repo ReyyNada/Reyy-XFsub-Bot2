@@ -2,8 +2,9 @@
 
 
 **NI KONTOL BUAT ELU**
+### Kalo kalian gapaham
+<p align="center"><a href="https://www.telegram.dog/pantekyks"> <img src="https://img.shields.io/badge/TEKAN%20INI%20KONTOL-Green?style=for-the-badge&logo=KONTOL" width="220" height="38.45"/></a></p>
 
-**KALO GAPAHAM,KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @pantekyks ](https://www.telegram.dog/pantekyks)**
 
 ### Features
 **INI FILE SHARING 2 BUTTON YA KONTOL**
