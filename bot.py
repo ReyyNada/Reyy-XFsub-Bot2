@@ -4,7 +4,7 @@ import pyromod.listen
 from pyrogram import Client
 import sys
 
-from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE_SUB_CHANNEL, CHANNEL_ID
+from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE_SUB_CHANNEL1, FORCE_SUB_CHANNEL2, CHANNEL_ID
 
 class Bot(Client):
     def __init__(self):
@@ -24,9 +24,9 @@ class Bot(Client):
         await super().start()
         usr_bot_me = await self.get_me()
 
-        if FORCE_SUB_CHANNEL:
+        if FORCE_SUB_CHANNEL1:
             try:
-                link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL)
+                link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL1)
                 self.invitelink = link
             except Exception as a:
                 self.LOGGER(__name__).warning(a)
