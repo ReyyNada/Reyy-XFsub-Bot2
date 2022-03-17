@@ -3,7 +3,7 @@
 
 **NI KONTOL BUAT ELU**
 
-**KALO GAPAHAM KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @pantekyks ](https://www.telegram.dog/pantekyks)**
+**KALO GAPAHAM,KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @pantekyks ](https://www.telegram.dog/pantekyks)**
 
 ### Features
 **INI FILE SHARING 2 BUTTON YA KONTOL**
