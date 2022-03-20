@@ -26,7 +26,7 @@
 /broadcast - broadcast any messages to bot users
 ```
 
-### ***NOH YANG DI ISI***
+### ***NOH YANG DI ISI KNTL***
 
 * `API_HASH` Your API Hash from my.telegram.org
 * `API_ID` Your API ID from my.telegram.org
