@@ -19,6 +19,8 @@
     <a href="https://t.me/myIchigoEX" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
     <a href="https://instagram.com/d.wrdna" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ### ***PERINTAH ADMIN***
