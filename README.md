@@ -2,6 +2,8 @@
 
 
 **NI KONTOL BUAT ELU TAPI CUMAN 2 BUTTON**
+
+### **MINIMAL KALO FORK KASI BINTANG YA ANJG**
 ### ***KALO KALIAN GAPAHAM***
 <p align="center"><a href="https://www.telegram.dog/pantekyks"> <img src="https://img.shields.io/badge/TEKAN%20INI%20KONTOL-Green?style=for-the-badge&logo=KONTOL" width="220" height="38.45"/></a></p>
 
