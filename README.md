@@ -9,3 +9,5 @@
 
 ### ***NOTES (FORK DULU KASIH BUTTON / LINK DEPLOY SENDIRI)***
 
+### CLONE DARI
+[CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
