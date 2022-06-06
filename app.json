@@ -1,5 +1,5 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "File Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/ReyyNada/Reyy-XFsub-Bot2",
-  "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
+  "logo": "https://telegra.ph/file/393c8a0268f5cf2a63c80.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
